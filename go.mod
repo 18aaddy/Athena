@@ -1,6 +1,6 @@
 module github.com/BlocSoc-iitr/Athena
 
-go 1.18
+go 1.22.5
 
 require (
 	github.com/NethermindEth/starknet.go v0.7.0
